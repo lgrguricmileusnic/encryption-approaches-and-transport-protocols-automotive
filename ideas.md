@@ -1,0 +1,14 @@
+- compare cryptographic cipher performance in automotive environments
+	- in vehicle, v2x
+		- different requirements (hard vs soft realtime, stronger ciphers in v2x?)
+	- in vehicle
+		- compare ciphers from competitions like CAESAR?
+		- simulate using microcontroller devboards?
+			- esp, stm, rpi pico?
+		- mostly wired communication
+			- CAN, automotive ethernet
+	- v2x
+		- OTA updates
+		- communication with smart infrastructure? (research, examples)
+		- v2v communication
+		- testable with Linux machines (car telematics and infotainments are mostly running linux)

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literature/literature.md",
+                "file": "in-vehicle/LEAP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b575a59d67b5637b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ideas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature/literature.md",
+                "file": "ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literature/literature.md",
+                "file": "ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literature/literature.md"
+                "file": "ideas.md"
               }
             }
           }
@@ -146,9 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7bce61e4ba1f2209",
+  "active": "b575a59d67b5637b",
   "lastOpenFiles": [
+    "in-vehicle/LEAP.md",
+    "ideas.md",
     "literature/literature.md",
+    "Untitled",
+    "v2x",
+    "in-vehicle",
     "literature",
     "Welcome.md"
   ]
