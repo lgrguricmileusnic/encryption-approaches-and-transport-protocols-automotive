@@ -2,11 +2,18 @@
 	- in vehicle, v2x
 		- different requirements (hard vs soft realtime, stronger ciphers in v2x?)
 	- in vehicle
-		- compare ciphers from competitions like CAESAR?
+		- compare ciphers from competitions like CAESAR, ASCON?
+			- AES
+		- define requirements and use-cases
 		- simulate using microcontroller devboards?
 			- esp, stm, rpi pico?
 		- mostly wired communication
 			- CAN, automotive ethernet
+		- AUTOSAR
+		- identify attack vectors
+			- threat modeling
+				- https://emb3d.mitre.org/threats/hardware.html
+				- STRIDE
 	- v2x
 		- OTA updates
 		- communication with smart infrastructure? (research, examples)
