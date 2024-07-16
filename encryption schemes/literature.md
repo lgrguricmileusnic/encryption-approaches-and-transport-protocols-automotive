@@ -1,0 +1,3 @@
+1. [Lu, Zhaojun, et al. "LEAP: A lightweight encryption and authentication protocol for in-vehicle communications." _2019 IEEE Intelligent Transportation Systems Conference (ITSC)_. IEEE, 2019.](https://arxiv.org/pdf/1909.10380)
+2. [Cui, Jie, et al. "Lightweight encryption and authentication for controller area network of autonomous vehicles." _IEEE Transactions on Vehicular Technology_ 72.11 (2023): 14756-14770.](https://figshare.le.ac.uk/articles/journal_contribution/Lightweight_Encryption_and_Authentication_for_Controller_Area_Network_of_Autonomous_Vehicles/25609671/1/files/45674721.pdf)
+3. [Jukl, M., and Jiří Čupera. "Using of tiny encryption algorithm in CAN-Bus communication." (2016): 50-55.](http://www.agriculturejournals.cz/pdfs/rae/2016/02/02.pdf)

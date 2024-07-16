@@ -1,6 +1,4 @@
-- compare cryptographic cipher performance in automotive environments
-	- in vehicle, v2x
-		- different requirements (hard vs soft realtime, stronger ciphers in v2x?)
+ - compare cryptographic cipher performance in automotive environments
 	- in vehicle
 		- compare ciphers from competitions like CAESAR, ASCON?
 			- AES
@@ -13,9 +11,10 @@
 		- identify attack vectors
 			- threat modeling
 				- https://emb3d.mitre.org/threats/hardware.html
+				- https://asrg.io/autovulndb/#/
 				- STRIDE
-	- v2x
-		- OTA updates
-		- communication with smart infrastructure? (research, examples)
-		- v2v communication
-		- testable with Linux machines (car telematics and infotainments are mostly running linux)
+	- ~~v2x~~
+		- ~~OTA updates~~
+		- ~~communication with smart infrastructure? (research, examples)~~
+		- ~~v2v communication~~
+		- ~~testable with Linux machines (car telematics and infotainments are mostly running linux)~~

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2dcf64bf6735a3ff",
+        "id": "0adbf6e98220f121",
         "type": "tabs",
         "children": [
           {
-            "id": "7bce61e4ba1f2209",
+            "id": "5f776de45cb435cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "in-vehicle/LEAP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b575a59d67b5637b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ideas.md",
+                "file": "automotive cybersecurity/UDS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideas.md",
+                "file": "automotive cybersecurity/UDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ideas.md",
+                "file": "automotive cybersecurity/UDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ideas.md"
+                "file": "automotive cybersecurity/UDS.md"
               }
             }
           }
@@ -159,14 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b575a59d67b5637b",
+  "active": "5f776de45cb435cd",
   "lastOpenFiles": [
-    "literature/literature.md",
+    "automotive cybersecurity/literature.md",
+    "automotive cybersecurity/UDS.md",
+    "automotive cybersecurity/CAN.md",
+    "automotive cybersecurity/MITRE EMB3D Threat Model.md",
+    "old/starting_literature.md",
+    "2024-07-16.md",
+    "images/emb3d_maturity_evidence.png",
+    "images",
+    "automotive cybersecurity/literature 1.md",
+    "encryption schemes/literature.md",
+    "hardware limitations/literature.md",
     "ideas.md",
-    "in-vehicle/LEAP.md",
-    "Untitled",
+    "attacks",
+    "automotive cybersecurity",
+    "encryption schemes/Untitled.md",
+    "encryption schemes/LEAP.md",
+    "old",
+    "hardware limitations",
     "v2x",
-    "in-vehicle",
+    "encryption schemes",
     "literature",
     "Welcome.md"
   ]
