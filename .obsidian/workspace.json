@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOs.md",
+                "file": "automotive cybersecurity/CAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "496d5d04058ee2fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "automotive cybersecurity/literature.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODOs.md",
+                "file": "automotive cybersecurity/CAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODOs.md",
+                "file": "automotive cybersecurity/CAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOs.md"
+                "file": "automotive cybersecurity/CAN.md"
               }
             }
           }
@@ -146,12 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac55538f78e7aa16",
+  "active": "147165b3c2bbc6f3",
   "lastOpenFiles": [
-    "automotive cybersecurity/UDS.md",
     "automotive cybersecurity/literature.md",
+    "automotive cybersecurity/Sensors.md",
     "automotive cybersecurity/CAN.md",
+    "automotive cybersecurity/Remote attacks.md",
     "automotive cybersecurity/MITRE EMB3D Threat Model.md",
+    "TODOs.md",
+    "automotive cybersecurity/UDS.md",
     "old/starting_literature.md",
     "2024-07-16.md",
     "images/emb3d_maturity_evidence.png",
@@ -159,7 +174,6 @@
     "automotive cybersecurity/literature 1.md",
     "encryption schemes/literature.md",
     "hardware limitations/literature.md",
-    "TODOs.md",
     "attacks",
     "automotive cybersecurity",
     "encryption schemes/Untitled.md",
