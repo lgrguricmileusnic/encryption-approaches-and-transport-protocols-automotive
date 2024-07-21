@@ -15,9 +15,8 @@
 5. Thomas Sermpinis (cr0w). “UDS Fuzzing and the Path to Game Over.“
 6. [https://www.csselectronics.com/pages/uds-protocol-tutorial-unified-diagnostic-services](https://www.csselectronics.com/pages/uds-protocol-tutorial-unified-diagnostic-services)
 7. [https://dissec.to/kb/chapters/uds/uds.html#communication-examples](https://dissec.to/kb/chapters/uds/uds.html#communication-examples)
-## [[Remote attacks]]
 
-## [[Sensors]]
+## Sensors
 1. [El-Rewini, Zeinab, et al. "Cybersecurity attacks in vehicular sensors." _IEEE Sensors Journal_ 20.22 (2020): 13752-13767.](https://www.osti.gov/pages/servlets/purl/1763654)
 ## Other
 1. [Bozdal, Mehmet, et al. "Evaluation of can bus security challenges." _Sensors_ 20.8 (2020): 2364.](https://www.mdpi.com/1424-8220/20/8/2364)
