@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "automotive cybersecurity/literature.md",
+                "file": "security_protocols/SecOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c362a84f124ef501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "automotive_cybersecurity/CAN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "automotive cybersecurity/literature.md",
+                "file": "automotive_cybersecurity/CAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "automotive cybersecurity/literature.md",
+                "file": "automotive_cybersecurity/CAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "automotive cybersecurity/literature.md"
+                "file": "automotive_cybersecurity/CAN.md"
               }
             }
           }
@@ -146,31 +159,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "496d5d04058ee2fb",
+  "active": "c362a84f124ef501",
   "lastOpenFiles": [
-    "Untitled.md",
-    "automotive cybersecurity/literature.md",
+    "automotive_cybersecurity/literature.md",
     "TODOs.md",
+    "images/secOC_diagram.png",
+    "images/emb3d_maturity_evidence.png",
+    "hardware/literature.md",
+    "papers/Tese_Pedro_Martins.pdf",
+    "papers",
+    "hardware/MCU Devboards.md",
+    "security_protocols/SecOC.md",
+    "security_protocols/NIST standardization.md",
+    "automotive_cybersecurity/CAN.md",
+    "automotive_cybersecurity/MITRE EMB3D Threat Model.md",
+    "automotive_cybersecurity/UDS.md",
+    "security_protocols/literature.md",
+    "encryption schemes/Untitled.md",
     "automotive cybersecurity/Remote attacks.md",
-    "encryption schemes/literature.md",
     "automotive cybersecurity/Sensors.md",
-    "automotive cybersecurity/MITRE EMB3D Threat Model.md",
-    "automotive cybersecurity/UDS.md",
-    "automotive cybersecurity/CAN.md",
     "old/starting_literature.md",
     "2024-07-16.md",
-    "images/emb3d_maturity_evidence.png",
     "images",
     "automotive cybersecurity/literature 1.md",
-    "hardware limitations/literature.md",
     "attacks",
-    "automotive cybersecurity",
-    "encryption schemes/Untitled.md",
+    "automotive_cybersecurity",
     "encryption schemes/LEAP.md",
     "old",
-    "hardware limitations",
+    "hardware",
     "v2x",
-    "encryption schemes",
+    "security_protocols",
     "literature",
     "Welcome.md"
   ]

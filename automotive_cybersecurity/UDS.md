@@ -98,4 +98,4 @@
 |  UD02  | Unauthorized firmware download     | Attacker can use these services to extract firmware from the target ECU.                                                   | Services don’t require authentication or a exploitable vulnerability exists in the 0x27 or 0x29 services. | [TID-224](https://emb3d.mitre.org/threats/TID-224.html) |
 |  UD03  | Arbitrary Code Execution           | Attacker can use these services to upload a malicious firmware version if the update process is not appropriately secured. | Services don’t require authentication or a exploitable vulnerability exists in the 0x27 or 0x29 services. | [TID-211](https://emb3d.mitre.org/threats/TID-211.html) |
 
-[[automotive cybersecurity/literature#UDS|literature]]
+[[automotive_cybersecurity/literature#UDS|literature]]
