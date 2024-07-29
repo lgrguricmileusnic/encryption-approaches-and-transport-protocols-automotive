@@ -11,11 +11,9 @@
             "id": "34f4c498087650b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "hardware/compatible_hardware.md",
-                "mode": "source",
-                "source": false
+                "file": "images/CANBUS_SCHEMATIC.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hardware/compatible_hardware.md",
+                "file": "images/CANBUS_SCHEMATIC.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hardware/compatible_hardware.md",
+                "file": "images/CANBUS_SCHEMATIC.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hardware/compatible_hardware.md"
+                "file": "images/CANBUS_SCHEMATIC.png"
               }
             }
           }
@@ -148,11 +146,16 @@
   },
   "active": "34f4c498087650b2",
   "lastOpenFiles": [
+    "hardware/lab.md",
+    "images/CANBUS_SCHEMATIC.png",
+    "hardware/hardware.md",
+    "security_protocols/crypto_competitons.md",
+    "security_protocols/SecOC.md",
+    "hardware/CAN_transceivers_controllers.md",
     "automotive_cybersecurity/literature.md",
     "automotive_cybersecurity/CAN.md",
     "notes/automotive_cybersecurity/literature.md",
     "notes/automotive_cybersecurity",
-    "notes",
-    "security_protocols/crypto_competitons.md"
+    "notes"
   ]
 }

@@ -1,4 +1,4 @@
-# [[compatible_hardware]]
+# [[hardware]]
 1. https://github.com/iDoka/awesome-canbus?tab=readme-ov-file#hardware
  
 # Other

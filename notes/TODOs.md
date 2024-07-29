@@ -6,7 +6,7 @@
 			- [ ] find suitable open source implementations of ciphers
 			- [ ] find suitable open source implementation of SecOC
 		- simulate using microcontroller devboards?
-			- [[compatible_hardware]]
+			- [[hardware]]
 	- [ ] define requirements and use-cases
 	- [ ] identify attack vectors
 		- threat modeling

@@ -11,11 +11,9 @@
             "id": "496d5d04058ee2fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "security_protocols/SecOC.md",
-                "mode": "source",
-                "source": false
+                "file": "notes/images/ISO_IEC_stream.png"
               }
             }
           },
@@ -25,14 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "automotive_cybersecurity/CAN.md",
+                "file": "notes/hardware/lab.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "automotive_cybersecurity/CAN.md",
+                "file": "notes/images/ISO_IEC_stream.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "automotive_cybersecurity/CAN.md",
+                "file": "notes/images/ISO_IEC_stream.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "automotive_cybersecurity/CAN.md"
+                "file": "notes/images/ISO_IEC_stream.png"
               }
             }
           }
@@ -159,37 +156,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c362a84f124ef501",
+  "active": "ac55538f78e7aa16",
   "lastOpenFiles": [
-    "automotive_cybersecurity/literature.md",
-    "TODOs.md",
-    "images/secOC_diagram.png",
-    "images/emb3d_maturity_evidence.png",
-    "hardware/literature.md",
-    "papers/Tese_Pedro_Martins.pdf",
-    "papers",
-    "hardware/MCU Devboards.md",
-    "security_protocols/SecOC.md",
-    "security_protocols/NIST standardization.md",
-    "automotive_cybersecurity/CAN.md",
-    "automotive_cybersecurity/MITRE EMB3D Threat Model.md",
-    "automotive_cybersecurity/UDS.md",
-    "security_protocols/literature.md",
+    "notes",
+    "notes/images/cryptocan_spec.png",
+    "notes/images/ISO_IEC_MAC.png",
+    "notes/security_protocols/CMAC spec.md",
+    "notes/security_protocols/crypto_competitons.md",
+    "notes/security_protocols/CryptoCAN.md",
+    "notes/security_protocols/SecOC.md",
+    "notes/security_protocols/literature.md",
+    "notes/images/ISO_IEC_stream.png",
+    "notes/images/block_ciphers_iso.png",
+    "notes/hardware/lab.md",
+    "notes/images/puno_procesora.png",
+    "notes/hardware/compatible_hardware.md",
+    "notes/hardware/CAN_transceivers_controllers.md",
+    "notes/hardware/literature.md",
+    "notes/images/stm32_canfd_products.png",
+    "notes/automotive_cybersecurity/literature.md",
+    "notes/papers/an5348-introduction-to-fdcan-peripherals-for-stm32-product-classes-stmicroelectronics.pdf",
+    "notes/papers/cnlm_22-4_p28_securing_can_Introduction_to_cryptocan_ken_tindell_canis_automotive_labs.pdf",
+    "notes/automotive_cybersecurity/CAN.md",
+    "notes/TODOs.md",
+    "notes/images/secOC_diagram.png",
+    "notes/images/emb3d_maturity_evidence.png",
+    "notes/papers/Tese_Pedro_Martins.pdf",
+    "notes/papers",
+    "notes/automotive_cybersecurity/MITRE EMB3D Threat Model.md",
+    "notes/automotive_cybersecurity/UDS.md",
     "encryption schemes/Untitled.md",
     "automotive cybersecurity/Remote attacks.md",
     "automotive cybersecurity/Sensors.md",
     "old/starting_literature.md",
     "2024-07-16.md",
-    "images",
+    "notes/images",
     "automotive cybersecurity/literature 1.md",
     "attacks",
-    "automotive_cybersecurity",
+    "notes/automotive_cybersecurity",
     "encryption schemes/LEAP.md",
     "old",
-    "hardware",
+    "notes/hardware",
     "v2x",
-    "security_protocols",
-    "literature",
     "Welcome.md"
   ]
 }
