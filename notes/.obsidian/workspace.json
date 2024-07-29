@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "04debd6f8dfe3ec5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9a7d186b758004a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34f4c498087650b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hardware/compatible_hardware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89f7009ac76b970f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba5e1aa2fed3567e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4729169d3dffc64a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c960da7679e1dd58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d084ea7dec3864c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "610f2c0032ce7045",
+    "type": "split",
+    "children": [
+      {
+        "id": "28f317749284bfdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b51a91c0287e0806",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hardware/compatible_hardware.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20444e9715400c85",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hardware/compatible_hardware.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d45f7b12a14eeb2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "865846f7a163b0e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hardware/compatible_hardware.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "34f4c498087650b2",
+  "lastOpenFiles": [
+    "automotive_cybersecurity/literature.md",
+    "automotive_cybersecurity/CAN.md",
+    "notes/automotive_cybersecurity/literature.md",
+    "notes/automotive_cybersecurity",
+    "notes",
+    "security_protocols/crypto_competitons.md"
+  ]
+}
