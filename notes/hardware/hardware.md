@@ -100,17 +100,16 @@ Same as [[hardware#CANPico Board (ARM)#v1|v1]] but with:
 
 ### CAN 2.0 ONLY!
 - [How to use fdcan peripherals stm32 NUCLEO-G0B1RE](https://community.st.com/t5/stm32-mcus/how-to-use-fdcan-to-create-a-simple-communication-with-a-basic/ta-p/671766)
-
-- communication between two stm32 boards with CAN 2.0
-- need two NUCLEO boards with HW-021 TJA1050 transcievers
-	- https://www.hansinformation.com/showpro.asp?id=333
-	- [[CAN_transceivers_controllers#TJA1050|TJA1050]]
-		- **DOESN'T SUPPORT CAN FD**, would need to find different CAN transceiver board, maybe [[CAN_transceivers_controllers#transceivers#MCP2542|MCP2542]] or [[CAN_transceivers_controllers#transceivers#SIT1042|SIT1042]]
-	- NUCLEO boards have CAN controller, but no transciever
+- ~~communication between two stm32 boards with CAN 2.0~~
+- ~~need two NUCLEO boards with HW-021 TJA1050 transcievers~~
+	- ~~https://www.hansinformation.com/showpro.asp?id=333
+	- ~~[[CAN_transceivers_controllers#TJA1050|TJA1050]]~~
+		- **DOESN'T SUPPORT CAN FD**, ~~would need to find different CAN transceiver board, maybe [[CAN_transceivers_controllers#transceivers#MCP2542|MCP2542]] or [[CAN_transceivers_controllers#transceivers#SIT1042|SIT1042]]~~
+	- ~~NUCLEO boards have CAN controller, but no transciever~~
 - https://controllerstech.com/fdcan-normal-mode-stm32/
 
 
-# Transciever breakout boards
+# Transciever/controller breakout boards
 
 Notes:
 - volatage levels of popular controllers
@@ -126,3 +125,28 @@ Notes:
 	- 5V supply, 3.3V logic
 	- 6 Mb/s
 	- 120R terminating resistor via jumper
+	- could work with teensy 4.0 or 4.1 as seen in schematic of:
+		- https://buyzero.de/products/teensy-4-0-can-fd-and-lin-bus-board-include-teensy-4-0
+
+## [[CAN_transceivers_controllers#MCP2542|MCP2542]]
+- https://www.mikroe.com/mcp2542-click
+	- it says 8Mbps for the IC, but UART might be a bottleneck
+	- might be connectable directly using CAN TX RX pins to a controller or a uC with built in controller (skipping UART)
+	
+	![[mcp2542_click_pinout.png]]
+
+
+## MCP2517FD + MCP2562FD
+- https://copperhilltech.com/can-fd-breakout-board-with-spi-interface/
+	- 49.95$
+	- SPI
+	- 5V supply, 3.3V logic
+	- 8Mbps
+	- 120R terminating resistor via jumper
+## MCP2518
+- https://www.reichelt.com/de/en/developer-boards-can-module-mcp2518-debo-can-mcp2518-p376524.html
+	- 19,90
+	- SPI
+
+
+
