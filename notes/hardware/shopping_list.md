@@ -10,13 +10,14 @@
 	- https://buyzero.de/products/canpico-board?s=rec&w=p
 	- €61,28 + price of RPI Pico
 
-3. RPI pico with SPI/UART CAN-FD peripheral boards with controller+transciever (RPI doesn't have a controller itself):
+3. RPI pico or any other controller that doesn't have CAN controller built in and can use SPI/IC2/UART in combination with a SPI/I2C/UART CAN-FD peripheral board with controller+transceiver :
 	1. MCP2517FD + MCP2562FD
 		- https://copperhilltech.com/can-fd-breakout-board-with-spi-interface/
 	2. MCP2518FD + ATA6561
 		- https://www.reichelt.com/de/en/developer-boards-can-module-mcp2518-debo-can-mcp2518-p376524.html
 			- Croatian seller Soldered Electronics
-	3. Any other board with controller + transciever which supports driving CAN-FD via SPI, I2C, UART...
+	3. Any other peripheral board with controller + transceiver which supports driving CAN-FD via SPI, I2C, UART...
+	- Instead of RPi Pico we can use ESP32, STM32 blue pill...
 
 5. CANBed **FD**
 	- FD is important as there is another variant called only CANBed that doesn't support CAN-FD
@@ -41,18 +42,18 @@
 			- 16,50 €
 10. SAM C21 XPLAINED PRO EVALUATION KIT from MicroChip
 	- devboard -  https://www.microchip.com/en-us/development-tool/atsamc21-xpro
-		- built in controller and transciever
+		- built in controller and transceiver
 		- €75.19
-11. Any STM32 devboard from product series STM32G0, STM32G4, STM32H5, STM32H7, STM32L5, STM32U5 + transciever breakout board
+11. Any STM32 devboard from product series STM32G0, STM32G4, STM32H5, STM32H7, STM32L5, STM32U5 + transceiver breakout board
 	- for example NUCLEO STMG0B1RE
 		- https://www.st.com/en/evaluation-tools/nucleo-g0b1re.html
-	- with MCP2562FD transciever breakout board
+	- with MCP2562FD transceiver breakout board
 		- https://www.skpang.co.uk/products/can-bus-can-fd-breakout-board-5v-supply-and-3-3v-logic
 	- nucleo boards can also be used with arduino shields, so the shield mentioned above also applies, however we are then not using the built in STM32 CAN controller, but communicating with an external one on the shield using SPI
 		- https://www.longan-labs.cc/1030012.html
-12. Teensy 4.0 or 4.1 with CAN-FD transciever breakout board
+12. Teensy 4.0 or 4.1 with CAN-FD transceiver breakout board
 	- https://www.pjrc.com/store/teensy41.html
-	- with MCP2562FD transciever breakout board
+	- with MCP2562FD transceiver breakout board
 		- https://www.skpang.co.uk/products/can-bus-can-fd-breakout-board-5v-supply-and-3-3v-logic
 
 ## Single board computers

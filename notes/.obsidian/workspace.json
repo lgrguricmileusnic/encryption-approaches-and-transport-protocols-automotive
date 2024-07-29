@@ -11,9 +11,11 @@
             "id": "8c968e293d85c127",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/mcp2542_click_pinout.png"
+                "file": "hardware/shopping_list.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/mcp2542_click_pinout.png",
+                "file": "hardware/shopping_list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/mcp2542_click_pinout.png",
+                "file": "hardware/shopping_list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/mcp2542_click_pinout.png"
+                "file": "hardware/shopping_list.md"
               }
             }
           }
@@ -156,10 +158,10 @@
   },
   "active": "8c968e293d85c127",
   "lastOpenFiles": [
+    "images/mcp2542_click_pinout.png",
     "hardware/shopping_list.md",
     "hardware/hardware.md",
     "papers/an5348-introduction-to-fdcan-peripherals-for-stm32-product-classes-stmicroelectronics.pdf",
-    "images/mcp2542_click_pinout.png",
     "hardware/CAN_transceivers_controllers.md",
     "hardware/lab.md",
     "images/CANBUS_SCHEMATIC.png",
