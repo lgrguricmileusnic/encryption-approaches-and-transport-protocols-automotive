@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hardware/shopping_list.md",
+                "file": "daily/2024-07-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hardware/shopping_list.md",
+                "file": "daily/2024-07-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hardware/shopping_list.md",
+                "file": "daily/2024-07-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hardware/shopping_list.md"
+                "file": "daily/2024-07-31.md"
               }
             }
           }
@@ -158,18 +158,22 @@
   },
   "active": "8c968e293d85c127",
   "lastOpenFiles": [
-    "images/mcp2542_click_pinout.png",
+    "security_protocols/crypto_competitons.md",
+    "daily/2024-07-31.md",
+    "2024-07-31.md",
+    "Untitled.md",
+    "daily",
+    "notes/automotive_cybersecurity/literature.md",
     "hardware/shopping_list.md",
+    "images/mcp2542_click_pinout.png",
     "hardware/hardware.md",
     "papers/an5348-introduction-to-fdcan-peripherals-for-stm32-product-classes-stmicroelectronics.pdf",
     "hardware/CAN_transceivers_controllers.md",
     "hardware/lab.md",
     "images/CANBUS_SCHEMATIC.png",
-    "security_protocols/crypto_competitons.md",
     "security_protocols/SecOC.md",
     "automotive_cybersecurity/literature.md",
     "automotive_cybersecurity/CAN.md",
-    "notes/automotive_cybersecurity/literature.md",
     "notes/automotive_cybersecurity",
     "notes"
   ]
